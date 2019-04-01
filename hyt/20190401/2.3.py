@@ -1,0 +1,1 @@
+print (list(map(lambda x: x+10, eval(input()))))
